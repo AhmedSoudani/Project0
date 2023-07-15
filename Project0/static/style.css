@@ -1,0 +1,120 @@
+body {
+    text-align: center;
+    font-family:sans-serif;
+}
+
+img {
+    margin-top: 180px;
+    max-height: 100px;
+}
+
+#q {
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+    color: #202124;
+    background: white;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+    padding: 10px 15px;
+    width: 500px;
+    max-width: 90%;
+}
+
+#GS {
+    display: block;
+    margin: 10px auto;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+    color: #202124;
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    padding: 0 16px;
+    line-height: 36px;
+    height: 36px;
+    min-width: 54px;
+}
+
+#IFL {
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+    color: #202124;
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    padding: 0 16px;
+    line-height: 36px;
+    height: 36px;
+    min-width: 54px;
+}
+#image, #GG {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+    color: #202124;
+    text-decoration: none;
+    margin-left: 5px;
+}
+#advance{
+    position: absolute;
+    top: 10px;
+    right: 60px;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+    color: #202124;
+    text-decoration: none;
+    margin-right: 5px;
+}
+
+#form {
+    text-align:left;
+    left:5px;
+}
+div {
+    margin: 15px;
+}
+#yy {
+    margin-top:100px;
+}
+h2 {
+    text-align:left;
+    margin-top:100px;
+}
+.in {
+    display:inline-flex;
+    padding-left:300px;
+    margin-left: 300px;
+    padding-top:7px ;
+}
+#sub {
+    background-color:#2ba8fb;
+    color:#ffffff;
+    border-radius:7px;
+    font-family:inherit;
+    font-weight: bold;
+    padding:12.5px 30px;
+    margin-left:700px;
+    margin-top:10px;
+}
+.input-container {
+    align-items: center;
+    justify-content: flex-start;
+  }
+#y1{
+    margin-left:270px;
+}
+#y3{
+    margin-left:245px;
+}
+#y4{
+    margin-left:235px;
+}
+#y2{
+    margin-left:200px;
+}
